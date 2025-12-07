@@ -1,0 +1,13 @@
+=== RESUMEN DE DATOS ===
+Total de libros: 60
+Precio promedio: £35.00
+Precio mínimo: £12.84
+Precio máximo: £57.31
+
+Distribución por rating:
+rating
+One      15
+Five     14
+Three    13
+Four     10
+Two       8
